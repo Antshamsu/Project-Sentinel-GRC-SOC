@@ -1,6 +1,7 @@
 Project Sentinel: The Compliance-to-Detection Lifecycle 🛡️
 
-Executive Summary
+Executive Summary:
+
 As a professional with a **Master’s in Cybersecurity, a BBA, and CISA/Security+ certifications**, I developed this project to demonstrate the integration of **Governance (GRC)**, **Monitoring (SOC)**, and **Risk Analysis**. 
 
 This project simulates a real-world enterprise scenario: Defining a security standard, detecting violations, and analyzing the business risk.
